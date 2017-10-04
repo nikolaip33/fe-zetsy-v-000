@@ -68,6 +68,7 @@ a {
 #press img {
   border: 5px solid #ccc;
   padding: 1px;
+	transition: background-color 0.5s ease;
 }
 
 #press img:hover {
