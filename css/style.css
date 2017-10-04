@@ -70,6 +70,10 @@ a {
   padding: 1px;
 }
 
+#press img:hover {
+  border: 5px solid rgb(111, 127, 122);
+}
+
 footer {
 	text-align: right;
 }
